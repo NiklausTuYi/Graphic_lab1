@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CG1_Assign4.dir/main.cpp.o  -o CG1_Assign4 -framework GLUT -framework OpenGL -framework APPKIT /usr/local/Cellar/glew/2.1.0/lib/libGLEW.2.1.dylib /usr/local/Cellar/glfw/3.2.1/lib/libglfw.3.dylib /usr/local/lib/libSOIL.dylib 
