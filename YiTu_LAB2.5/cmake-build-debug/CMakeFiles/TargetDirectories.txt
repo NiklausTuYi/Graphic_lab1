@@ -1,0 +1,3 @@
+/Users/niklaus/Desktop/graphics/clion/CG1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/niklaus/Desktop/graphics/clion/CG1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niklaus/Desktop/graphics/clion/CG1/cmake-build-debug/CMakeFiles/CG1.dir
